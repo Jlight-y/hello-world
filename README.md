@@ -1,2 +1,8 @@
-# hello-world
+/*# hello-world
 First demp
+*/
+public class Hello{
+  public static void main(String[] args){
+    System.out.println("Hello World!")
+  }
+}
